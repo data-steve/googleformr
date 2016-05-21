@@ -19,3 +19,5 @@ License: GPL-2
 LazyData: TRUE
 Roxygen: list(wrap = FALSE)
 RoxygenNote: 5.0.1
+URL: https://github.com/data-steve/googleformr
+BugReports: https://github.com/data-steve/googleformr/issues
